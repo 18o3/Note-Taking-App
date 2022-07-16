@@ -2,7 +2,7 @@
 Built a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
 
 
-##Steps to Setup
+Steps to Setup
 
 Install dependencies
 ```
